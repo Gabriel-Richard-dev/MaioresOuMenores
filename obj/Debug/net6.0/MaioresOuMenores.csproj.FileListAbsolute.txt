@@ -1,0 +1,15 @@
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.csproj.AssemblyReference.cache
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.AssemblyInfoInputs.cache
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.AssemblyInfo.cs
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.csproj.CoreCompileInputs.cache
+/home/gabrielrichard/dev/MaioresOuMenores/bin/Debug/net6.0/MaioresOuMenores
+/home/gabrielrichard/dev/MaioresOuMenores/bin/Debug/net6.0/MaioresOuMenores.deps.json
+/home/gabrielrichard/dev/MaioresOuMenores/bin/Debug/net6.0/MaioresOuMenores.runtimeconfig.json
+/home/gabrielrichard/dev/MaioresOuMenores/bin/Debug/net6.0/MaioresOuMenores.dll
+/home/gabrielrichard/dev/MaioresOuMenores/bin/Debug/net6.0/ref/MaioresOuMenores.dll
+/home/gabrielrichard/dev/MaioresOuMenores/bin/Debug/net6.0/MaioresOuMenores.pdb
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.dll
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/ref/MaioresOuMenores.dll
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.pdb
+/home/gabrielrichard/dev/MaioresOuMenores/obj/Debug/net6.0/MaioresOuMenores.genruntimeconfig.cache
